@@ -3,7 +3,7 @@
 
 Easy to use and Reponsive.
 
-![](assets/images/accordianDemo.png)
+![](assets/images/accordianDemo.gif)
 ----------------------------------------------------------------
 **TRY IT NOW** : [Classic-Accordian](https://arslanameer.github.io/Ui-Component-Accordian/)
 
